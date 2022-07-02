@@ -1,0 +1,7 @@
+POST http://localhost:3000/api/purchase
+Content-Type: application/json
+
+{
+    "productId": 1,
+    "userId": "user@email.com"
+}
